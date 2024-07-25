@@ -111,9 +111,25 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "580ee4e93f6c127c",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b109e939cd340d8",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "5b400e2d39d31310",
