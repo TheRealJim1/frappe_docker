@@ -1,0 +1,9 @@
+{
+  "templatesFolder": "9000-system/9000-system-03-knowledge-templates",
+  "assetsFolder": "1000-data",
+  "automaticMove": false,
+  "useSceneAnalyser": true,
+  "version": "4.1.14",
+  "customAttributes": [],
+  "forceFullWidth": true
+}

@@ -1,3 +1,6 @@
+---
+state: Focus
+---
 ### Clone frappe_docker and switch directory
 
 ```shell

@@ -1,0 +1,12 @@
+{
+  "cssTheme": "RetroNotes",
+  "accentColor": "#734612",
+  "baseFontSize": 12,
+  "enabledCssSnippets": [
+    "Daily Note Themes",
+    "obsidian-default-theme",
+    "Colored Sidebar Items"
+  ],
+  "baseFontSizeAction": true,
+  "nativeMenus": false
+}

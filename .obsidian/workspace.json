@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "020ced10a39cd7eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "021786e0e8a8cb2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "118a08e7c56b89fd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/master-drawing-0002.excalidraw.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "468550c938be23d2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "00 - Maps of Content/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c96f0225e01716d",
+    "type": "split",
+    "children": [
+      {
+        "id": "448939e41c0bdfad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c427f758b58ea65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e40480e751801c9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38a8c41cefab468b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5096130371094
+  },
+  "right": {
+    "id": "4788018ca3560ba1",
+    "type": "split",
+    "children": [
+      {
+        "id": "10f6f2d28927d8a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4751a7f740f19391",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8443cb5cadee0aef",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "560faa83f73c0092",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5b400e2d39d31310",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b6ff534de1493dc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d3336f70cd1e33ec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b48ca3cc4bd76f5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d37108837c8c3734",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8cddb03e9df03f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - Maps of Content/Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08a7fffbca889cdf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 - Maps of Content/Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 399.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "code-files:Create Code File": false,
+      "graph:Open graph view": false,
+      "obsidian-projects:Open projects": false,
+      "workspaces:Manage workspace layouts": false,
+      "vscode-editor:Create Code File": false,
+      "canvas:Create new canvas": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "qatt:Refresh QATT Tables": false,
+      "qatt:Refresh Views": false,
+      "ribbon-divider:ribbon-divider-22583cf4-efd2-4942-860a-d8226b4ef60a": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "qatt:Log Metrics": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": true,
+      "obsidian-kanban:Create new board": false,
+      "project-browser:Open project browser": false,
+      "homepage:Open homepage": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:Open Importer": true,
+      "html-server:Turn Http Server Off": false,
+      "html-server:Turn Http Server On": false,
+      "ribbon-divider:ribbon-divider-e196c4ff-8226-46cc-9e2b-20a912640eb5": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal headlines only": false,
+      "ribbon-divider:ribbon-divider-994347bb-1149-4da7-ad04-d992eae581fb": true,
+      "privacy-glasses:Reveal all": false,
+      "ribbon-divider:ribbon-divider-3de605e4-acfb-4c12-bcfc-0305a398bd69": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "open-vscode:VSCode": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "obsidian-flexible-pomo:Start Pomodoro": false,
+      "soundscapes:Soundscapes: My Music": false,
+      "digitalgarden:Digital Garden Publication Center": false
+    }
+  },
+  "active": "468550c938be23d2",
+  "lastOpenFiles": [
+    "Excalidraw/master-drawing-0002.excalidraw.md",
+    "00 - Maps of Content/Untitled.canvas",
+    "99 - Meta/ReadItLater/Data Import/Customer Template for Update.png",
+    "99 - Meta/00 - Templates/0A_Templates/0A_3_Project/0A_3_2_ActionPlan.md",
+    "03 - Resources/Placeholder.md",
+    "docs/development.md",
+    "CONTRIBUTING.md",
+    "CODE_OF_CONDUCT.md",
+    "9000-system/ReadItLater Inbox/Automation.md",
+    "9000-system/ReadItLater Inbox/Note 2024-07-10 19-37-20.md",
+    "06 - Daily/20240711.md",
+    "Textsnippet.md",
+    "9000-system/ReadItLater Inbox/Note 2024-07-11 14-26-17.md",
+    "9000-system/ReadItLater Inbox/ai-sociaty-simulator-onet.md",
+    "01 - Projects/01 - Local Docker Image -  2024-07-10.md",
+    "Untitled 1.md",
+    "01 - Projects/01 - Project -  2024-07-13.md",
+    "01 - Projects/01 - Theming and Branding -  2024-07-10.md",
+    "tests/_check_connections.py",
+    "docs/single-server-example.md",
+    "00 - Maps of Content/Placeholder.md",
+    "9000-system/ReadItLater Inbox/Note 2024-07-12 08-01-30.md",
+    "99 - Meta/ReadItLater/Data Import/Child Table Export.png",
+    "99 - Meta/ReadItLater/Data Import.md",
+    "00 - Maps of Content/Untitled.md",
+    "99 - Meta/ReadItLater/Data Import/Blank Template.png",
+    "99 - Meta/ReadItLater/Data Import/Import via Google Sheets.png",
+    "99 - Meta/ReadItLater/Data Import/Google Sheets.png",
+    "99 - Meta/ReadItLater/Data Import/Import Success.png",
+    "99 - Meta/ReadItLater/Data Import/Import Warnings.png",
+    "99 - Meta/ReadItLater/Data Import/Upload Template File.png",
+    "99 - Meta/ReadItLater/Data Import/Download Template.gif",
+    "99 - Meta/ReadItLater/Data Import/Customer Template with Data.png",
+    "99 - Meta/ReadItLater/Data Import",
+    "99 - Meta/ReadItLater/Note 2024-07-19 07-58-33.md",
+    "Excalidraw/ED-202407141657.excalidraw.md",
+    "99 - Meta/ReadItLater/Home",
+    "99 - Meta/ReadItLater/Note 2024-07-19 07-56-56.md",
+    "99 - Meta/ReadItLater",
+    "9000-system/ReadItLater Inbox/Lattice (order) - Wikipedia.md",
+    "ReadItLater Inbox/assets/Home",
+    "task-dump-0001.pdf",
+    "Excalidraw",
+    "ReadItLater Inbox/assets/Lattice (order) - Wikipedia",
+    "ReadItLater Inbox/assets",
+    "ReadItLater Inbox"
+  ]
+}

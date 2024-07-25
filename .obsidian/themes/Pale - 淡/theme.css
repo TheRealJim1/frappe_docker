@@ -1,0 +1,188 @@
+.theme-light {
+    --background-primary: #eae3d8;
+    --shadow: 2px 3px 10px 1px rgba(150, 150, 150, 0.282);
+    --interactive-normal: #ecdfd2;
+    --background-modifier-form-field: #f2ece6;
+    --text-color: #434343;
+}
+
+.theme-dark {
+    --background-primary: #454545;
+    --interactive-normal: #484848;
+    --shadow: 2px 3px 20px 1px rgba(0, 0, 0, 0.271);
+    --text-color: #b9b9b9;
+}
+
+.theme-light h1, .theme-light h2, .theme-light h3, .theme-light h4, .theme-light h5, .theme-light h6,
+.theme-dark h1, .theme-dark h2, .theme-dark h3, .theme-dark h4, .theme-dark h5, .theme-dark h6 {
+    color: var(--text-color);
+}
+
+.workspace,
+.workspace-leaf-content,
+.workspace-tab-header-container,
+.workspace-split.mod-left-split {
+    background-color: var(--background-primary);
+}
+
+.workspace-tab-header-container {
+    border: none;
+}
+
+.is-hidden-frameless:not(.is-fullscreen).is-focused .titlebar-button-container.mod-right,
+body.is-focused .titlebar,
+body.is-focused .workspace-ribbon.mod-left {
+    background-color: var(--background-primary);
+}
+
+.is-focused .workspace-tab-header.is-active {
+    box-shadow: var(--shadow);
+}
+
+.mod-root .workspace-tab-header-container-inner {
+    margin-left: 100px;
+}
+
+.workspace-split.mod-root .view-content {
+    margin: 15px 20px;
+    max-width: 1400px;
+    overflow-y: scroll;
+    background-color: var(--background-primary);
+    border-radius: 20px;
+    box-shadow: var(--shadow);
+}
+
+.canvas-controls,
+.graph-controls {
+    right: 35px;
+    top: 30px;
+}
+
+.view-header-title-container,
+.workspace-leaf-content[data-type='outline'] .view-content,
+.backlink-pane,
+.outgoing-link-pane,
+.tag-container {
+    box-shadow: var(--shadow);
+    border-radius: 10px;
+}
+
+.workspace-leaf-content[data-type='outline'] .view-content,
+.backlink-pane,
+.outgoing-link-pane,
+.tag-container {
+    margin: 10px;
+}
+
+.workspace-ribbon {
+    position: relative;
+    border-radius: 10px;
+    margin: 10px;
+    box-shadow: var(--shadow);
+    border-right: none;
+    background-color: var(--background-primary);
+}
+
+.workspace-split.mod-left-split > .workspace-leaf-resize-handle,
+.workspace-split.mod-right-split > .workspace-leaf-resize-handle {
+    border: none;
+}
+
+.nav-header {
+    box-shadow: var(--shadow);
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.workspace-ribbon .sidebar-toggle-button {
+    background-color: var(--interactive-accent);
+}
+
+.workspace-ribbon .sidebar-toggle-button .clickable-icon {
+    color: #ededed;
+}
+
+.theme-dark .workspace-ribbon .sidebar-toggle-button .clickable-icon {
+    color: var(--text-color);
+}
+
+.workspace-ribbon.mod-left:before {
+    border: none;
+    height: 0;
+    width: 0;
+}
+
+.side-dock-actions {
+    margin-top: 16em;
+}
+
+.nav-files-container {
+    margin: 10px;
+    padding: 10px;
+    background-color: var(--background-primary);
+    border-radius: 10px;
+    box-shadow: var(--shadow);
+}
+
+body:not(.is-mobile) .workspace-split.mod-left-split .workspace-sidedock-vault-profile {
+    position: relative;
+    background-color: var(--background-primary);
+    box-shadow: var(--shadow);
+    max-width: 500px;
+    margin-bottom: 14px;
+    border-radius: 10px;
+    align-items: center;
+    padding: 10px;
+    z-index: 1;
+    justify-content: center;
+    border: none;
+}
+
+body:not(.is-mobile) .workspace-split.mod-left-split .workspace-sidedock-vault-profile .workspace-drawer-vault-switcher {
+    cursor: pointer;
+}
+
+.modal-container.mod-dim .modal,
+.modal.mod-settings .vertical-tab-header {
+    border: none;
+    background-color: var(--background-primary);
+    border-radius: 10px;
+}
+
+select,
+.dropdown {
+    box-shadow: var(--shadow);
+}
+
+body:not(.native-scrollbars) .modal-close-button {
+    inset-inline-end: 30px;
+}
+
+.modal-close-button {
+    margin: 17px;
+}
+
+.modal.mod-sidebar-layout {
+    padding: 20px;
+}
+
+.modal-bg {
+    backdrop-filter: blur(2px);
+}
+
+.modal-sidebar {
+    background-color: var(--background-primary);
+}
+
+.community-item {
+    cursor: pointer;
+    box-shadow: var(--shadow);
+}
+
+button.mod-warning {
+    background-color: rgb(183, 93, 93);
+}
+
+.ͼ1 .cm-scroller {
+    margin: 2%;
+}
