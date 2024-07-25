@@ -1657,6 +1657,7 @@
                 }
               }
             ],
+            "currentTab": 1,
             "stacked": true
           }
         ],
@@ -1724,8 +1725,17 @@
                   "type": "calendar",
                   "state": {}
                 }
+              },
+              {
+                "id": "099543132d0cb172",
+                "type": "leaf",
+                "state": {
+                  "type": "git-history-view",
+                  "state": {}
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "5b400e2d39d31310",
@@ -1775,7 +1785,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Excalidraw/master-drawing-0002.excalidraw.md",
+                    "file": "00 - Maps of Content/Untitled.canvas",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -1792,7 +1802,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Excalidraw/master-drawing-0002.excalidraw.md",
+                    "file": "00 - Maps of Content/Untitled.canvas",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -1806,6 +1816,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "code-files:Create Code File": false,
           "graph:Open graph view": false,
           "obsidian-projects:Open projects": false,
           "workspaces:Manage workspace layouts": false,
@@ -1847,8 +1858,8 @@
           "digitalgarden:Digital Garden Publication Center": false
         }
       },
-      "active": "9c427f758b58ea65",
-      "mtime": "2024-07-24T19:19:02-04:00"
+      "active": "468550c938be23d2",
+      "mtime": "2024-07-24T20:58:26-04:00"
     },
     "workspace-layout-0007": {
       "main": {

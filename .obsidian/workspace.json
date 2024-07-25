@@ -105,18 +105,18 @@
             }
           },
           {
-            "id": "8443cb5cadee0aef",
+            "id": "099543132d0cb172",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "git-history-view",
               "state": {}
             }
           },
           {
-            "id": "560faa83f73c0092",
+            "id": "7787bdb0970b8b12",
             "type": "leaf",
             "state": {
-              "type": "BC-tree",
+              "type": "git-view",
               "state": {}
             }
           }
