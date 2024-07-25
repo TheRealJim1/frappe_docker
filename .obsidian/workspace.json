@@ -111,25 +111,9 @@
               "type": "git-history-view",
               "state": {}
             }
-          },
-          {
-            "id": "580ee4e93f6c127c",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "2b109e939cd340d8",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "5b400e2d39d31310",
@@ -210,46 +194,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "code-files:Create Code File": false,
-      "graph:Open graph view": false,
-      "obsidian-projects:Open projects": false,
-      "workspaces:Manage workspace layouts": false,
-      "vscode-editor:Create Code File": false,
-      "canvas:Create new canvas": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templates:Insert template": false,
-      "daily-notes:Open today's daily note": false,
-      "qatt:Refresh QATT Tables": false,
-      "qatt:Refresh Views": false,
-      "ribbon-divider:ribbon-divider-22583cf4-efd2-4942-860a-d8226b4ef60a": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "qatt:Log Metrics": false,
-      "templater-obsidian:Templater": false,
+      "code-files:Create Code File": true,
+      "graph:Open graph view": true,
+      "obsidian-projects:Open projects": true,
+      "workspaces:Manage workspace layouts": true,
+      "vscode-editor:Create Code File": true,
+      "canvas:Create new canvas": true,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "templates:Insert template": true,
+      "daily-notes:Open today's daily note": true,
+      "qatt:Refresh QATT Tables": true,
+      "qatt:Refresh Views": true,
+      "ribbon-divider:ribbon-divider-22583cf4-efd2-4942-860a-d8226b4ef60a": true,
+      "breadcrumbs:Breadcrumbs Visualisation": true,
+      "qatt:Log Metrics": true,
+      "templater-obsidian:Templater": true,
       "obsidian-read-it-later:ReadItLater: Save clipboard": true,
-      "obsidian-kanban:Create new board": false,
-      "project-browser:Open project browser": false,
-      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": true,
+      "project-browser:Open project browser": true,
+      "homepage:Open homepage": true,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-importer:Open Importer": true,
-      "html-server:Turn Http Server Off": false,
-      "html-server:Turn Http Server On": false,
-      "ribbon-divider:ribbon-divider-e196c4ff-8226-46cc-9e2b-20a912640eb5": false,
-      "privacy-glasses:Hide all": false,
-      "privacy-glasses:Reveal non-private": false,
-      "privacy-glasses:Reveal headlines only": false,
+      "html-server:Turn Http Server Off": true,
+      "html-server:Turn Http Server On": true,
+      "ribbon-divider:ribbon-divider-e196c4ff-8226-46cc-9e2b-20a912640eb5": true,
+      "privacy-glasses:Hide all": true,
+      "privacy-glasses:Reveal non-private": true,
+      "privacy-glasses:Reveal headlines only": true,
       "ribbon-divider:ribbon-divider-994347bb-1149-4da7-ad04-d992eae581fb": true,
-      "privacy-glasses:Reveal all": false,
-      "ribbon-divider:ribbon-divider-3de605e4-acfb-4c12-bcfc-0305a398bd69": false,
-      "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
-      "switcher:Open quick switcher": false,
+      "privacy-glasses:Reveal all": true,
+      "ribbon-divider:ribbon-divider-3de605e4-acfb-4c12-bcfc-0305a398bd69": true,
+      "command-palette:Open command palette": true,
+      "omnisearch:Omnisearch": true,
+      "switcher:Open quick switcher": true,
       "open-vscode:VSCode": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "obsidian-flexible-pomo:Start Pomodoro": false,
-      "soundscapes:Soundscapes: My Music": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "smart-connections:Open: View Smart Connections": true,
+      "smart-connections:Open: Smart Chat Conversation": true,
+      "obsidian-flexible-pomo:Start Pomodoro": true,
+      "soundscapes:Soundscapes: My Music": true,
+      "digitalgarden:Digital Garden Publication Center": true
     }
   },
   "active": "468550c938be23d2",

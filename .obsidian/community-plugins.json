@@ -36,7 +36,6 @@
   "obsidian-task-collector",
   "tag-wrangler",
   "obsidian-text-format",
-  "privacy-glasses",
   "obsidian-vault-statistics-plugin",
   "obsidian-show-file-path",
   "mysnippets-plugin",
@@ -49,5 +48,6 @@
   "obsidian-git",
   "vscode-editor",
   "code-files",
-  "obsidian-editor-shortcuts"
+  "obsidian-editor-shortcuts",
+  "privacy-glasses"
 ]
