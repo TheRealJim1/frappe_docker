@@ -4,8 +4,8 @@
   "baseFontSize": 12,
   "enabledCssSnippets": [
     "Daily Note Themes",
-    "obsidian-default-theme",
-    "Colored Sidebar Items"
+    "Colored Sidebar Items",
+    "obsidian-default-theme"
   ],
   "baseFontSizeAction": true,
   "nativeMenus": false

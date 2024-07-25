@@ -6,6 +6,7 @@
       {
         "id": "021786e0e8a8cb2a",
         "type": "tabs",
+        "dimension": 58.733443708609265,
         "children": [
           {
             "id": "118a08e7c56b89fd",
@@ -18,7 +19,15 @@
               },
               "pinned": true
             }
-          },
+          }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "749f84a24dd07f46",
+        "type": "tabs",
+        "dimension": 41.26655629139073,
+        "children": [
           {
             "id": "468550c938be23d2",
             "type": "leaf",
@@ -27,16 +36,14 @@
               "state": {
                 "file": "00 - Maps of Content/Untitled.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -146.769775390625,
+                  "y": -340.5692260742187,
                   "zoom": 0
                 }
               }
             }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
