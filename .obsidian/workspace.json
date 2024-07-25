@@ -32,15 +32,8 @@
             "id": "468550c938be23d2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "00 - Maps of Content/Untitled.canvas",
-                "viewState": {
-                  "x": -172.6158447265625,
-                  "y": -339.6461303710937,
-                  "zoom": 0
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -184,7 +177,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps of Content/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +193,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps of Content/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,10 +248,10 @@
       "digitalgarden:Digital Garden Publication Center": true
     }
   },
-  "active": "d3336f70cd1e33ec",
+  "active": "468550c938be23d2",
   "lastOpenFiles": [
-    "Excalidraw/master-drawing-0002.excalidraw.md",
     "00 - Maps of Content/Untitled.canvas",
+    "Excalidraw/master-drawing-0002.excalidraw.md",
     "99 - Meta/ReadItLater/Data Import/Customer Template for Update.png",
     "99 - Meta/00 - Templates/0A_Templates/0A_3_Project/0A_3_2_ActionPlan.md",
     "03 - Resources/Placeholder.md",
