@@ -6,7 +6,7 @@
       {
         "id": "021786e0e8a8cb2a",
         "type": "tabs",
-        "dimension": 58.733443708609265,
+        "dimension": 40.07428807263722,
         "children": [
           {
             "id": "118a08e7c56b89fd",
@@ -26,7 +26,7 @@
       {
         "id": "749f84a24dd07f46",
         "type": "tabs",
-        "dimension": 41.26655629139073,
+        "dimension": 59.92571192736277,
         "children": [
           {
             "id": "468550c938be23d2",
@@ -131,14 +131,6 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "83fe03c948894258",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
               "state": {}
             }
           }
@@ -265,7 +257,7 @@
       "digitalgarden:Digital Garden Publication Center": true
     }
   },
-  "active": "eb0891ed13dcc239",
+  "active": "d3336f70cd1e33ec",
   "lastOpenFiles": [
     "Excalidraw/master-drawing-0002.excalidraw.md",
     "00 - Maps of Content/Untitled.canvas",
