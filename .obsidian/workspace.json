@@ -36,8 +36,8 @@
               "state": {
                 "file": "00 - Maps of Content/Untitled.canvas",
                 "viewState": {
-                  "x": -146.769775390625,
-                  "y": -340.5692260742187,
+                  "x": -172.6158447265625,
+                  "y": -339.6461303710937,
                   "zoom": 0
                 }
               }
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5096130371094
+    "width": 311.5096130371094
   },
   "right": {
     "id": "4788018ca3560ba1",
@@ -112,15 +112,37 @@
             }
           },
           {
+            "id": "eb0891ed13dcc239",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1139e6fbb977b4e6",
+        "type": "tabs",
+        "children": [
+          {
             "id": "099543132d0cb172",
             "type": "leaf",
             "state": {
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "83fe03c948894258",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5b400e2d39d31310",
@@ -243,7 +265,7 @@
       "digitalgarden:Digital Garden Publication Center": true
     }
   },
-  "active": "468550c938be23d2",
+  "active": "eb0891ed13dcc239",
   "lastOpenFiles": [
     "Excalidraw/master-drawing-0002.excalidraw.md",
     "00 - Maps of Content/Untitled.canvas",
