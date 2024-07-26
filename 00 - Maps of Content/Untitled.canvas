@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"bf659f2412e0b648","x":-474,"y":-483,"width":250,"height":60,"type":"text","text":""},
-		{"id":"034688eea2ddc41f","x":-480,"y":-780,"width":397,"height":240,"type":"text","text":"# ideas\n\n## inputs\n\n- [ ] git-action-0001\n- [ ] git-action-0002\n"},
-		{"id":"f6c2d0d15621ebec","type":"text","text":"\t\ttest","x":-480,"y":-300,"width":250,"height":60}
+		{"id":"bf659f2412e0b648","type":"text","text":"","x":-34,"y":-583,"width":250,"height":60},
+		{"id":"034688eea2ddc41f","type":"text","text":"# ideas\n\n## inputs\n\n- [ ] git-action-0001\n- [ ] git-action-0002\n","x":-40,"y":-880,"width":397,"height":240},
+		{"id":"f6c2d0d15621ebec","type":"text","text":"\t\ttest","x":-40,"y":-400,"width":250,"height":60}
 	],
 	"edges":[]
 }
