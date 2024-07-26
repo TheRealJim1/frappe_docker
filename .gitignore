@@ -13,6 +13,9 @@ development/*
 # Pycharm
 .idea
 
+# obsidian
+.obsidian
+
 # VS Code
 .vscode/**
 !.vscode/extensions.json
