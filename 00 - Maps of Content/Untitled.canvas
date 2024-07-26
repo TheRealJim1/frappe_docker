@@ -1,8 +1,7 @@
 {
 	"nodes":[
-		{"id":"bf659f2412e0b648","type":"text","text":"","x":-34,"y":-583,"width":250,"height":60},
-		{"id":"034688eea2ddc41f","type":"text","text":"# ideas\n\n## inputs\n\n- [ ] git-action-0001\n- [ ] git-action-0002\n","x":-40,"y":-880,"width":397,"height":240},
-		{"id":"f6c2d0d15621ebec","type":"text","text":"\t\ttest","x":-40,"y":-400,"width":250,"height":60}
+		{"id":"b1b9594650560a86","x":-1000,"y":-1020,"width":680,"height":820,"type":"link","url":"http://localhost:8080/app/users"},
+		{"id":"034688eea2ddc41f","type":"text","text":"# ideas\n\n## inputs\n\n- [ ] git-action-0001\n- [ ] git-action-0002\n","x":-240,"y":-1020,"width":397,"height":820}
 	],
 	"edges":[]
 }

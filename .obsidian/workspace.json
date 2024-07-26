@@ -6,7 +6,30 @@
       {
         "id": "021786e0e8a8cb2a",
         "type": "tabs",
-        "dimension": 58.733443708609265,
+        "dimension": 70.98509933774835,
+        "children": [
+          {
+            "id": "468550c938be23d2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "00 - Maps of Content/Untitled.canvas",
+                "viewState": {
+                  "x": -311.8429387137671,
+                  "y": -615.4114271143053,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "3a278d8b6d36e2c5",
+        "type": "tabs",
+        "dimension": 29.01490066225166,
         "children": [
           {
             "id": "118a08e7c56b89fd",
@@ -18,29 +41,6 @@
                 "file": "Excalidraw/master-drawing-0002.excalidraw.md"
               },
               "pinned": true
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
-        "id": "749f84a24dd07f46",
-        "type": "tabs",
-        "dimension": 41.26655629139073,
-        "children": [
-          {
-            "id": "468550c938be23d2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "00 - Maps of Content/Untitled.canvas",
-                "viewState": {
-                  "x": -146.769775390625,
-                  "y": -340.5692260742187,
-                  "zoom": 0
-                }
-              }
             }
           }
         ]
@@ -136,12 +136,20 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "5b400e2d39d31310",
         "type": "tabs",
         "children": [
+          {
+            "id": "52c889fb7d9d8d4e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
           {
             "id": "9b6ff534de1493dc",
             "type": "leaf",
@@ -165,8 +173,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b48ca3cc4bd76f5a",
