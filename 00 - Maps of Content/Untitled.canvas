@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"b1b9594650560a86","x":-1000,"y":-1020,"width":680,"height":820,"type":"link","url":"http://localhost:8080/app/users"},
-		{"id":"034688eea2ddc41f","type":"text","text":"# ideas\n\n## inputs\n\n- [ ] git-action-0001\n- [ ] git-action-0002\n","x":-200,"y":-1020,"width":397,"height":820}
-	],
-	"edges":[]
-}
