@@ -6,7 +6,7 @@
       {
         "id": "021786e0e8a8cb2a",
         "type": "tabs",
-        "dimension": 70.98509933774835,
+        "dimension": 70.98509933774834,
         "children": [
           {
             "id": "468550c938be23d2",
@@ -29,7 +29,7 @@
       {
         "id": "3a278d8b6d36e2c5",
         "type": "tabs",
-        "dimension": 29.01490066225166,
+        "dimension": 29.014900662251655,
         "children": [
           {
             "id": "118a08e7c56b89fd",
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Maps of Content/Untitled.canvas",
+                "file": "Excalidraw/master-drawing-0002.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Maps of Content/Untitled.canvas",
+                "file": "Excalidraw/master-drawing-0002.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,11 +249,7 @@
       "html-server:Turn Http Server Off": true,
       "html-server:Turn Http Server On": true,
       "ribbon-divider:ribbon-divider-e196c4ff-8226-46cc-9e2b-20a912640eb5": true,
-      "privacy-glasses:Hide all": true,
-      "privacy-glasses:Reveal non-private": true,
-      "privacy-glasses:Reveal headlines only": true,
       "ribbon-divider:ribbon-divider-994347bb-1149-4da7-ad04-d992eae581fb": true,
-      "privacy-glasses:Reveal all": true,
       "ribbon-divider:ribbon-divider-3de605e4-acfb-4c12-bcfc-0305a398bd69": true,
       "command-palette:Open command palette": true,
       "omnisearch:Omnisearch": true,
@@ -266,10 +262,10 @@
       "digitalgarden:Digital Garden Publication Center": true
     }
   },
-  "active": "468550c938be23d2",
+  "active": "118a08e7c56b89fd",
   "lastOpenFiles": [
-    "Excalidraw/master-drawing-0002.excalidraw.md",
     "00 - Maps of Content/Untitled.canvas",
+    "Excalidraw/master-drawing-0002.excalidraw.md",
     "99 - Meta/ReadItLater/Data Import/Customer Template for Update.png",
     "99 - Meta/00 - Templates/0A_Templates/0A_3_Project/0A_3_2_ActionPlan.md",
     "03 - Resources/Placeholder.md",
