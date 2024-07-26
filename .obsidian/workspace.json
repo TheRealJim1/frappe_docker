@@ -6,7 +6,7 @@
       {
         "id": "021786e0e8a8cb2a",
         "type": "tabs",
-        "dimension": 40.07428807263722,
+        "dimension": 58.733443708609265,
         "children": [
           {
             "id": "118a08e7c56b89fd",
@@ -26,14 +26,21 @@
       {
         "id": "749f84a24dd07f46",
         "type": "tabs",
-        "dimension": 59.92571192736277,
+        "dimension": 41.26655629139073,
         "children": [
           {
             "id": "468550c938be23d2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "00 - Maps of Content/Untitled.canvas",
+                "viewState": {
+                  "x": -146.769775390625,
+                  "y": -340.5692260742187,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -86,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5096130371094
+    "width": 317.5096130371094
   },
   "right": {
     "id": "4788018ca3560ba1",
@@ -105,29 +112,31 @@
             }
           },
           {
-            "id": "eb0891ed13dcc239",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1139e6fbb977b4e6",
-        "type": "tabs",
-        "children": [
-          {
             "id": "099543132d0cb172",
             "type": "leaf",
             "state": {
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "dfc6e72574da0006",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "e81982892ae2e563",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "5b400e2d39d31310",
@@ -177,6 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 - Maps of Content/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,6 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00 - Maps of Content/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +259,7 @@
       "digitalgarden:Digital Garden Publication Center": true
     }
   },
-  "active": "468550c938be23d2",
+  "active": "e81982892ae2e563",
   "lastOpenFiles": [
     "00 - Maps of Content/Untitled.canvas",
     "Excalidraw/master-drawing-0002.excalidraw.md",
